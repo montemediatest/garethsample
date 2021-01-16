@@ -19,7 +19,7 @@
 	<title>Tuxworth Joinery | Walsall</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
 	<link href="view/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="view/style.css" rel="stylesheet" />
 
@@ -280,13 +280,13 @@
 
 
 	<!-- Bootstrap core JavaScript -->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script type="text/javascript" src="view/js/script.js"></script>
 	<script type="text/javascript" src="view/js/bootstrap.min.js"></script>
 
 
 	<!--  script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>  -->
-	<script src='http://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js'></script>
+	<script src='https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js'></script>
 
 		<script type="text/javascript" src="view/js/function.js"></script>
 
